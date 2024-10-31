@@ -4,13 +4,13 @@
 
 Cyclistic is a bike-share program that has been serving the city of Chicago since 2016. Today the company owns over 5,824 bicycles and 692 docking stations. 
 
-Although ridership has steadily grown throughout the years, converting more customers into annual members will be essential to the company’s growth. The goal of this project is to analyze the company's bike trip data from October 2023 to September 2024 (12 months), uncover differences in the way members and non-members use bikes, and make recommendations based on these differences to help the marketing team maximize resources to convert more non-members into members.
+Although ridership has steadily grown throughout the years, converting more customers into annual members will be essential to the company’s growth. The goal of this project was to analyze the company's bike trip data from October 2023 to September 2024, uncover differences in the way members and non-members use bikes, and make recommendations for the marketing team to maximize resources to convert more non-members into members.
 
 **Insights and recommendations are provided on the following key areas:**
 
-* Ride behaviors of members and non-members: the length of rides, the frequency of rides
-* Locations and times of rides: where are the majority of the bikes being used and when
-* Seasonality patterns: what does bike usage look like throughout the day, week, month, or season
+* Ride behavior patterns of members and non-members: how long riders generally ride for
+* Popular locations of rides: where rides start and end
+* Seasonality pattern in usage of bikes: patterns throughout the day, weeks, months or seasons
 
 To view the original dataset, click [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
