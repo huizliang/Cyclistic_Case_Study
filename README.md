@@ -23,7 +23,7 @@ Overview of column names and data types:
 ![Cyclistic_headers](https://github.com/user-attachments/assets/3f8009c1-82ef-4aed-b1e5-19e794ff411d)
 
 
-Due to the large volume of the dataset, Python was the most efficient tool to use to gain familiarization with the data and to check the quality of the data. To see the codes used to clean and explore the dataset in Python, click [here](https://github.com/huizliang/Cyclistic/blob/main/Cyclistic_tripdata2.ipynb).
+Due to the large volume of the dataset, Python was the most efficient tool to use to gain familiarization with the data and to check the quality of the data. To view the codes used to clean and analyze the dataset in Python, click [here](https://github.com/huizliang/Cyclistic/blob/main/Cyclistic_tripdata2.ipynb).
 
 ## Executive Summary
 After reviewing the dataset, several key differences between how members and non-members used bikes emerged:
@@ -40,7 +40,7 @@ Below is a visualization of the key findings:
 ![Cyclistic Dashboard 2](https://github.com/user-attachments/assets/7ec7fd6c-3b23-416b-a964-e0a937bd935e)
 
 
-To see the Tableau dashboard for the dataset, click [here](https://public.tableau.com/app/profile/hui.liang/vizzes).
+To view the visualizations in Tableau, click [here](https://public.tableau.com/app/profile/hui.liang/vizzes).
 
 ## Recommendations
 
